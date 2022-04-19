@@ -19,6 +19,9 @@ For example, I'm currently working on:
 - Weather web app on Flask
 
 You can contact me through
-- Twitter: [@whouishere](https://twitter.com/whouishere)
+- <img src="media/Logo blue.svg" width="20" height="20" alt="Twitter">: [@whouishere](https://twitter.com/whouishere)
 - 📧: [willianvinagre11@gmail.com](mailto:willianvinagre11@gmail.com)
-- <img src="https://join-lemmy.org/static/assets/images/lemmy.svg" width="25" height="25" alt="Lemmy">: [u/whou](https://lemmy.ml/u/whou)
+- <img src="media/lemmy.svg" width="20" height="20" alt="Lemmy">: [u/whou](https://lemmy.ml/u/whou)
+- <img src="media/matrix-logo-white.svg" width="40" height="20" alt="Matrix">: [@whou:matrix.org](https://matrix.to/#/@whou:matrix.org)
+- <a href="https://xmpp.org"><img src="media/xmpp-logo.svg" width="20" height="20" alt="XMPP/Jabber"></a>: whou@no-bullchat.net
+
