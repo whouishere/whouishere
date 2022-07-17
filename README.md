@@ -25,3 +25,8 @@ You can contact me through
 - <a href="https://matrix.org"><img src="media/matrix-logo-white.svg" width="40" height="15" alt="Matrix"></a>: [@whou:matrix.org](https://matrix.to/#/@whou:matrix.org)
 - <a href="https://xmpp.org"><img src="media/xmpp-logo.svg" width="20" height="20" alt="XMPP/Jabber"></a>: whou@no-bullchat.net
 
+<p align="center">
+
+[![whouishere's GitHub contribution stats](https://awesome-github-stats.azurewebsites.net/user-stats/whouishere?cardType=github&theme=github-dark&Title=009C37&Border=FEE000)](https://github.com/brunohbrito/awesome-github-stats)
+
+</p>
