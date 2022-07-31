@@ -2,9 +2,9 @@
 
 I'm Willian, a self-taught student that is still focusing on learning new stuff!
 
-I'm somewhat fluent in Java, C/C++ and Python.
+I'm fluent in Java, C/C++, Go and Python.
 
-At the moment, learning OpenGL, Flask, Go, Rust and Julia.
+At the moment, learning OpenGL, Flask, Rust and Julia.
 
 I'd say my focus was always more on the game development side, since I'm gaming as early as I can remember, and I love creating fun experiences!
 
