@@ -18,10 +18,12 @@ For example, I'm currently working on:
 - Simple Minecraft clone in OpenGL
 - Weather web app on Flask
 
-You can contact me through
+You can contact me through:
 - <a href="https://twitter.com"><img src="media/Logo blue.svg" width="20" height="15" alt="Twitter"></a>: [@whouishere](https://twitter.com/whouishere)
 - 📧: [willianvinagre11@gmail.com](mailto:willianvinagre11@gmail.com)
-- <a href="https://join-lemmy.org"><img src="media/lemmy.svg" width="20" height="20" alt="Lemmy"></a>: [u/whou](https://lemmy.ml/u/whou)
+<!-- Mastodon's `rel="me"` verification doesn't actually work here, but hopes are up! -->
+<!-- https://github.com/community/community/discussions/5720 -->
+- <a href="https://joinmastodon.org"><img src="media/logo-purple.svg" width="15" height="15" alt="Mastodon"></a>: <a rel="me" href="https://indieweb.social/@whou">@whou@indieweb.social</a>
 - <a href="https://matrix.org"><img src="media/matrix-logo-white.svg" width="40" height="15" alt="Matrix"></a>: [@whou:matrix.org](https://matrix.to/#/@whou:matrix.org)
 - <a href="https://xmpp.org"><img src="media/xmpp-logo.svg" width="20" height="20" alt="XMPP/Jabber"></a>: whou@no-bullchat.net
 
