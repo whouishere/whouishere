@@ -2,9 +2,9 @@
 
 I'm Willian, a self-taught student that is still focusing on learning new stuff!
 
-I'm fluent in Java, C/C++, Go and Python.
+I'm fluent in C/C++, Go and Python.
 
-At the moment, learning OpenGL, Flask, Rust and Julia.
+At the moment, learning OpenGL, Rust and Julia.
 
 I'd say my focus was always more on the game development side, since I'm gaming as early as I can remember, and I love creating fun experiences!
 
@@ -13,10 +13,8 @@ Another big interest of mine is the free software movement. Everything I do is p
 Though I don't have any projects finished __yet__, I am working on those, even if at snail speed.
 
 For example, I'm currently working on:
-- A ToDo list app on Flask
-- My own games on the libGDX framework
-- Simple Minecraft clone in OpenGL
-- Weather web app on Flask
+- Small games on Godot, libGDX and raylib
+- Simple OpenGL [Minecraft clone/engine](https://gitlab.com/whouishere/cubesnstuff) in modern C++
 
 You can contact me through:
 - 📧: [willianvinagre@proton.me](mailto:willianvinagre@proton.me)
