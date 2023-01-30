@@ -6,6 +6,3 @@ Mastodon logo kindly provided from:
 
 Matrix logo kindly provided from:
 [https://github.com/matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-XMPP logo kindly provided from:
-[https://github.com/xsf/xmpp.org](https://github.com/xsf/xmpp.org)
