@@ -14,8 +14,8 @@ Though I don't have any projects finished __yet__, I am working on those, even i
 
 For example, I'm currently working on:
 - Small games on Godot, libGDX and raylib
-- Simple OpenGL Minecraft clone/engine in modern C++[*](https://gitlab.com/whouishere/cubesnstuff)
-- Alternative Unix coreutils package in Go[*](https://codeberg.org/whou/simpleutils)
+- Simple OpenGL Minecraft clone/engine in modern C++[\*](https://codeberg.org/whou/cubesnstuff)
+- Alternative Unix coreutils package in Go[\*](https://codeberg.org/whou/simpleutils)
 
 It's also important to note that half of my projects are on [Codeberg](https://codeberg.org/whou). Though I have some of its mirrors here, but there's some cool stuff there too, I think.
 ##### [Give Up GitHub!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) (not quite there yet, though)
